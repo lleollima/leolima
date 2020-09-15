@@ -17,9 +17,8 @@ Atualmente estou estudando no <Strong> Bootcamp</strong> da <strong>LABENU</stro
 
 
 
-- AWS Services
-- Firebase
 
+----
 
 #### Deseja entrar em contato ? 
 > Me mande uma mensagem em alguma das minhas redes sociais abaixo:
@@ -27,8 +26,16 @@ Atualmente estou estudando no <Strong> Bootcamp</strong> da <strong>LABENU</stro
   <img align="left" alt="LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
--  [Instagram](https://www.instagram.com/leo.lli/)
-- [Facebook](https://www.facebook.com/leonardolima2012)
+<a target="_blank" href="https://www.instagram.com/leo.lli/">
+  <img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" />
+</a>
+
+<a target="_blank" href="https://www.facebook.com/leonardolima2012">
+  <img align="left" alt="Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />
+</a>
+
+
+
 
 
 ----
