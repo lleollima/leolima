@@ -13,7 +13,7 @@ Atualmente estou estudando no <Strong> Bootcamp</strong> da <strong>LABENU</stro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt='Git'></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt='MySQL'></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt='MSSQL'></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt='MSSQL'></code>
+
 
 
 
@@ -34,10 +34,7 @@ Atualmente estou estudando no <Strong> Bootcamp</strong> da <strong>LABENU</stro
   <img align="left" alt="Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />
 </a>
 
-
-
-
-
+</br>
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
