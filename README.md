@@ -1,4 +1,4 @@
-# Bem vindo ao meu mundo!
+# Bem vindo ao meu mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Olá , me chamo Leonardo , mas pode me chamar de Léo  ou Lima , sou <strong>Desenvolvedor Web Full Stack </strong>.
 Atualmente estou estudando no <Strong> Bootcamp</strong> da <strong>LABENU</strong>. 
