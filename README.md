@@ -24,7 +24,7 @@ Atualmente estou trabalhando como <Strong>Front End</strong> na <strong>TeamSoft
 #### Deseja entrar em contato ? 
 > Me mande uma mensagem no LinkedIn :
 > 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lima-53951a122/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lima-53951a122/)](https://www.linkedin.com/in/leonardo-lima-53951a122/)
 
 
 
