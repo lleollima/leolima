@@ -22,18 +22,12 @@ Atualmente estou trabalhando como <Strong>Front End</strong> na <strong>TeamSoft
 ----
 
 #### Deseja entrar em contato ? 
-> Me mande uma mensagem em alguma das minhas redes sociais abaixo:
-<a target="_blank" href="https://www.linkedin.com/in/leonardo-lima-53951a122/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+> Me mande uma mensagem no LinkedIn :
+> 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lima-53951a122/)](https://www.linkedin.com/in/fagnerpsantos/)
 
-<a target="_blank" href="https://www.instagram.com/leo.lli/">
-  <img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" />
-</a>
 
-<a target="_blank" href="https://www.facebook.com/leonardolima2012">
-  <img align="left" alt="Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />
-</a>
+
 
 </br>
 
