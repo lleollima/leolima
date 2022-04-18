@@ -8,11 +8,7 @@
 - 🔭 I’m currently working on [Next Shipping](https://github.com/Next-Shipping)
 
 - 🌱 I’m currently learning **UX/UI courses**
-
-- 👯 I’m looking to collaborate on [Cargo Play](https://github.com/Next-Shipping/cargoplay)
-
-- 🤝 I’m looking for help with [iNext](https://github.com/Next-Shipping/cp-back-office)
-
+- 
 - 💬 Ask me about **React, Material UI , Bootstrap**
 
 - 📫 How to reach me **leoanrdolima2008@gmail.com**
